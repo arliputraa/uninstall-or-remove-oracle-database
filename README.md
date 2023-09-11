@@ -37,6 +37,8 @@
 ![image](https://github.com/arliputraa/uninstall-or-remove-oracle-database/assets/110078907/7d3fc1ff-0add-498f-a172-af0529c3d8cc)
 
 
+### reboot/restart server
+        sudo reboot now
 
 
 
